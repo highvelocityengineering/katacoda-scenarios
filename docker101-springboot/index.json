@@ -4,6 +4,9 @@
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
+    "intro": {
+      "courseData": "setup.sh"
+    },
     "steps": [
       {
         "title": "Clone the application repository",
