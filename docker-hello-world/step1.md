@@ -1,18 +1,14 @@
 
-A Katacoda scenario is a series of Markdown files, bash scripts and a JSON file to define how your scenario should be configured, the text for the scenario and any automation required.
+First step is to clone the application repository from Github public code repository. 
 
 ## Task
 
-Clone our example repository that contains the set of documentation with the following command:
+Clone the source code repository for this application from Github with the following command:
 
 `git clone https://github.com/fizalihsan/docker-springboot-hello-world.git docker-springboot-hello-world`{{execute}}
 
-Within the repository, you will see a set of examples of implementing various Katacoda functionality.
+A copy of the sample application repository is now copied in your workspace. Within the repository, you will see a set of files that implements the Spring Boot application in Docker.
 
-The scenario you are currently reading is in the directory `ls -lha katacoda-scenario-examples/create-scenario-101`{{execute}}. The directory name is what defines the URL.
+To view the files, run the command: `ls -l docker-springboot-hello-world/`{{execute}}. 
 
-An example of the current step is `katacoda-scenario-examples/create-scenario-101/step1.md`{{open}}
-
-All the steps are collected via a JSON file, for example, `katacoda-scenario-examples/create-scenario-101/index.json`{{open}}.
-
-The JSON file defines the scenario title, the description, steps order, the UI layout and environment. You can find more about the layouts within our scenarios at [katacoda.com/docs/scenarios/layouts](https://katacoda.com/docs/scenarios/layouts) and environments at [katacoda.com/docs/scenarios/environments](https://katacoda.com/docs/scenarios/environments).
+To open a file in editor: `docker-springboot-hello-world/build.gradle`{{open}}
