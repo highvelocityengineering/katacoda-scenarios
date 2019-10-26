@@ -9,7 +9,7 @@ Clone the source code repository for this application from Github with the follo
 
 A copy of the sample application repository is now copied in your workspace. Within the repository, you will see a set of files that implements the Spring Boot application in Docker.
 
-To view the files, run the command: `ls -l docker-springboot-hello-world/`{{execute}}. 
+To view all the files in terminal, run the command: `ls -l docker-springboot-hello-world/`{{execute}}. You can also view the files in the editor tile.
 
 To open a file in editor: `docker-springboot-hello-world/build.gradle`{{open}}
 
