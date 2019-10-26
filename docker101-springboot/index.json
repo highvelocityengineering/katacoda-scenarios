@@ -1,8 +1,8 @@
 {
-  "title": "Docker Hello World Apps",
-  "description": "Learn Docker with simple Hello World apps in Java, Python, etc.",
+  "title": "Learn Docker via SpringBoot Hello World App",
+  "description": "Learn Docker with a simple Hello World apps in SpringBoot",
   "difficulty": "Beginner",
-  "time": "1 hour",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
@@ -18,32 +18,12 @@
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Create Docker Image",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Create Docker Container",
         "text": "step5.md"
-      },
-      {
-        "title": "Step 6",
-        "text": "step6.md"
-      },
-      {
-        "title": "Step 7",
-        "text": "step7.md"
-      },
-      {
-        "title": "Step 8",
-        "text": "step8.md"
-      },
-      {
-        "title": "Step 9",
-        "text": "step9.md"
-      },
-      {
-        "title": "Step 10",
-        "text": "step10.md"
       }
     ],
     "intro": {
