@@ -10,4 +10,4 @@ To view the package files created: `ls -l build/libs`{{execute}}
 
 Start the application: `java -jar build/libs/docker101_springboot-boot.jar`{{execute}}
 
-To test if the application works locally, open a new terminal window and run `curl localhost:8080`{{execute}}
+To test if the application works locally, open a new terminal window and run `curl localhost:8080`{{execute T2}}
