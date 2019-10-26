@@ -12,3 +12,10 @@ A copy of the sample application repository is now copied in your workspace. Wit
 To view the files, run the command: `ls -l docker-springboot-hello-world/`{{execute}}. 
 
 To open a file in editor: `docker-springboot-hello-world/build.gradle`{{open}}
+
+Render port 8500: https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+
+Render port 80: https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
+
+Display page allowing user to select port:
+https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com/
