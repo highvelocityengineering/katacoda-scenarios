@@ -1,6 +1,6 @@
-To create a docker container, run the following command: `docker run --publish 8080:8080 --name docker101_springboot_api docker101_springboot_api`{{execute}} 
+To create a docker container, run the following command: `docker run --publish 8080:8080 --name docker101_springboot_api docker101_springboot_api`{{execute T1}} 
 
-To view the running container: `docker ps`{{execute}}
+To view the running container: `docker ps`{{execute T2}}
 
 To open the application in browser: https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
 
