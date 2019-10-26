@@ -1,4 +1,4 @@
-Before we run the application, let us install all the libraries and dependencies required to build the application. 
+Before we run the application, we need to install all the dependencies required to build the application like. 
 
 * OpenJDK 8
 * Gradle 5.2.1
