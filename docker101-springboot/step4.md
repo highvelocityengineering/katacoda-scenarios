@@ -1,0 +1,1 @@
+Now it is finally time to build the docker image.
