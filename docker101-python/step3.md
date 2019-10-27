@@ -1,15 +1,9 @@
-Before jumping into Docker, let us first build and package the application locally and test if the application works.
+To create a docker container, run the following command: `docker run --publish 5000:5000 --name docker101_python_api docker101_python_api`{{execute T1}} 
 
-Run this command to build the SpringBoot application and package the application binaries as `jar` and `war` archive files.
+To view the running container: `docker ps`{{execute T2}}
 
-`cd docker-springboot-hello-world && gradle clean build`{{execute}}
+To open the application in browser: https://[[HOST_SUBDOMAIN]]-5000-[[KATACODA_HOST]].environments.katacoda.com/
 
-Wait, how would `gradle` know how to build and package my application? The answer to that is in `build.gradle` file: `docker-springboot-hello-world/build.gradle`{{open}}
+To stop the container: `docker stop docker101_python_api`{{execute T2}}
 
-To view the package files created: `ls -l build/libs`{{execute}}
-
-Start the application: `java -jar build/libs/docker101_springboot-boot.jar`{{execute}}
-
-To test if the application works locally, open a new terminal window and run `curl localhost:8080`{{execute T2}}
-
-To open this in browser: https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+Executing `docker ps` will not show the container created above now since it is in stopped state. To view the stopped containers, run: `docker ps -a`{{execute T2}}

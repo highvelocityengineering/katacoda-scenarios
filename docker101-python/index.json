@@ -13,20 +13,12 @@
         "text": "step1.md"
       },
       {
-        "title": "Install Dependencies",
+        "title": "Create Docker Image",
         "text": "step2.md"
       },
       {
-        "title": "Build and package application",
-        "text": "step3.md"
-      },
-      {
-        "title": "Create Docker Image",
-        "text": "step4.md"
-      },
-      {
         "title": "Create Docker Container",
-        "text": "step5.md"
+        "text": "step3.md"
       }
     ],
     "intro": {
