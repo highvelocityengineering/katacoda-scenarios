@@ -1,4 +1,4 @@
-To create a docker container, run the following command: `docker run --publish 49160:8080 --name docker101_nodejs_api docker101_nodejs_api`{{execute T1}} 
+To create a docker container, run the following command: `docker run --publish 8080:8080 --name docker101_nodejs_api docker101_nodejs_api`{{execute T1}} 
 
 To view the running container: `docker ps`{{execute T2}}
 
