@@ -40,7 +40,7 @@
     "uilayout": "editor-terminal", 
     "terminals": [
       {"name": "Terminal 1", "target": "host01"},
-      {"name": "Terminal 2", "target": "host01"},
+      {"name": "Terminal 2", "target": "host01"}
     ]
   },
   "backend": {
