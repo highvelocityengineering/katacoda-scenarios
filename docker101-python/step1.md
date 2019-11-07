@@ -1,14 +1,12 @@
 
-First step is to clone the application repository from Github public code repository. 
 
-## Task
+Before we get started let's take a quick look at what all these windows are supposed to show us:
 
-Clone the source code repository for this application from Github with the following command:
+The window on the left side of your browser is your tutorial window.  It's where you'll read the demo information and enter commands.
 
-`git clone https://github.com/highvelocityengineering/docker101-python.git docker-python-hello-world`{{execute}}
+The small window in the middle is the file directory window.  This is where you can view files.   
 
-A copy of the sample application repository is now copied in your workspace. Within the repository, you will see a set of files that implements the Python Hello World application in Docker.
+The large window to the right is the directory view, this will show the contents of any files you select. 
 
-To view all the files in terminal, run the command: `ls -l docker-python-hello-world/`{{execute}}. You can also view the files in the editor tile.
+Below the directory window and view is the Terminal where your commands will run.  This is where you can see the action. 
 
-To open a file in editor: `docker-python-hello-world/app.py`{{open}}

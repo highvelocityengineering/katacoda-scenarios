@@ -1,24 +1,28 @@
 {
-  "title": "Docker 101 - Hello World in Python",
-  "description": "Learn Docker with a simple Hello World app in Python Flask",
+  "title": "Docker 101 - Build a container running Python ",
+  "description": "Build a simple docker container",
   "difficulty": "Beginner",
-  "time": "30 minutes",
+  "time": "10 minutes",
   "details": {
     "intro": {
       "courseData": "setup.sh"
     },
     "steps": [
       {
-        "title": "Clone the application repository",
+        "title": "General Overview",
         "text": "step1.md"
       },
       {
-        "title": "Create Docker Image",
+        "title": "Clone the code repository",
         "text": "step2.md"
       },
       {
-        "title": "Create Docker Container",
+        "title": "Create Docker Image",
         "text": "step3.md"
+      },
+	  {
+        "title": "Create Docker Container",
+        "text": "step4.md"
       }
     ],
     "intro": {
