@@ -29,24 +29,20 @@
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Changing code in a container",
         "text": "step6.md"
       },
       {
-        "title": "Step 7",
+        "title": "Rebuild code and redeploy the container",
         "text": "step7.md"
       },
       {
-        "title": "Step 8",
+        "title": "Host/Container separation",
         "text": "step8.md"
       },
       {
-        "title": "Step 9",
+        "title": "Review",
         "text": "step9.md"
-      },
-      {
-        "title": "Step 10",
-        "text": "step10.md"
       }
     ],
     "intro": {
