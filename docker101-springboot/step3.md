@@ -1,6 +1,6 @@
-Before jumping into Docker, let us first build and package the application locally and test if the application works.
+Before jumping into docker, let us first build and test application locally.
 
-Run this command to build the SpringBoot application and package the application binaries as `jar` and `war` archive files.
+To build the SpringBoot application and package the application as binary `jar` and `war` archive files run the following command:
 
 `cd docker-springboot-hello-world && gradle clean build`{{execute}}
 
