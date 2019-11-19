@@ -1,5 +1,5 @@
 
-First step is to clone the application repository from Github public code repository. 
+The first step to our exercise is to clone the application repository from Github public code repository. 
 
 ## Task
 
