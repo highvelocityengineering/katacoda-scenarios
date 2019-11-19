@@ -4,10 +4,12 @@ Before that, let's stop the application we started locally in the previous step:
 
 To build the docker image `docker build --tag docker101_springboot_api .`{{execute T1}}
 
-*Going Deeper - Here is a great page to explain the docker image.  <https://docs.docker.com/v17.09/engine/userguide/storagedriver/imagesandcontainers/#container-and-layers>
+* Going Deeper - Here is a great page to explain the docker image.  <https://docs.docker.com/v17.09/engine/userguide/storagedriver/imagesandcontainers/#container-and-layers>
 
 To view the Docker file: `docker-springboot-hello-world/Dockerfile`{{open}}
 
-To view the docker image created: `docker images`{{execute T1}}
+To view the docker image created: `docker images`{{execute T1}} 
+
+Notice the docker image docker101_springboot_api we created is listed in the output.
 
 >Remember - A docker image is all the code and dependencies you need to run an application.  When you run a docker image it becomes a container.
