@@ -4,7 +4,7 @@ Before that, let's stop the application we started locally in the previous step:
 
 To build the docker image `docker build --tag docker101_springboot_api .`{{execute T1}}
 
-Here is a great page to explain the docker image build.  <https://dzone.com/articles/docker-layers-explained>
+*Going Deeper - Here is a great page to explain the docker image.  <https://docs.docker.com/v17.09/engine/userguide/storagedriver/imagesandcontainers/#container-and-layers>
 
 To view the Docker file: `docker-springboot-hello-world/Dockerfile`{{open}}
 
