@@ -34,7 +34,10 @@ Let's take another look at the docker image store and see what we have.
 
 `docker image list`{{execute T1}}  
 
-We now have a docker image named docker101_python_api.  We've taken the Hello World application, downloaded to our local machine and created a docker image.  Now it's time to actual run the application.
+We now have a docker image named docker101_python_api.  We've taken the Hello World application, downloaded to our local machine and created a docker image. 
+
+
+Now it's time to actual run the application.
 
 To view the Docker file: `docker-python-hello-world/Dockerfile`{{open}}
 > The docker file is a list of detailed instructions on how to build a docker image.  This file is used by the docker runtime engine to put everything together.
