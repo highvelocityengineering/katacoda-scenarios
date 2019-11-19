@@ -6,7 +6,7 @@ Let's start our docker image, run the following command: `docker run --publish 5
 
 Let's break down this command:
 
-docker -- Letting the computer know you're talking to the docker application
+docker -- Letting the computer know you're talking to the docker runtime engine.
 
 run -- telling the docker to start the docker image.
 
@@ -17,7 +17,7 @@ name -- User-definable name.  If you leave this blank docker will assign a rando
 
 To view the running container: `docker ps`{{execute T2}}  (if it doesn't run the first time - please click again)
 
-To view the application in browser and see the program running in your container: https://[[HOST_SUBDOMAIN]]-5000-[[KATACODA_HOST]].environments.katacoda.com/
+To view the application in browser and see the program running in your container: http://[[HOST_SUBDOMAIN]]-5000-[[KATACODA_HOST]].environments.katacoda.com/
 
 To stop the container: `docker stop docker101_python_api`{{execute T2}}
 
