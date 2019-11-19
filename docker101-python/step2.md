@@ -11,7 +11,7 @@ Clone the source code repository for this application from Github with the follo
 
 `git clone https://github.com/highvelocityengineering/docker101-python.git docker-python-hello-world`{{execute}}
 
-Notice the directory window - a copy of the application repository (docker-python-hello-world) is now copied to your computer. If you expand the docker-python directory in the directory window you will see a set of files that make up the Python Hello World application.
+Notice the directory window. A copy of the application repository (docker-python-hello-world) is now copied to your computer. If you expand the docker-python directory in the directory window you will see a set of files that make up the Python Hello World application.
 
 To view all the files in terminal, run the command: `ls -l docker-python-hello-world/`{{execute}}.
 
