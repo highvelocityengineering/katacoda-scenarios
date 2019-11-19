@@ -6,5 +6,5 @@ Container technology is a new technology that's quickly gaining acceptance in th
 3. Containers are highly portable. They will run on many different clouds and across many different container platforms.
 4. Containers use very little computer resources compared to other technologies.
 
-This exercise will give you an idea of how to build a container and show you some characteristics of it.
+This exercise will run your through building a small java application using springboot and show you how to deploy it to a container.  We'll also look at how the host/container processes and file systems are separate. 
 
