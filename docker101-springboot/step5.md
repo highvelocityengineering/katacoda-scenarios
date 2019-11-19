@@ -8,7 +8,7 @@ To view the running container:
 
 To open the application in browser: 
 
-https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
 
 To stop the container: 
 
