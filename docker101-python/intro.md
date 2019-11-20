@@ -1,6 +1,6 @@
 
 The purpose of this learning module is to give a very high level understanding of containers, how they are built and what they do.   Container technology has been around for several years but only recently has it come to the forefront of IT industry.  
-mar
+
 
 Containers are a method of packaging an application with its dependencies and isolating it from other computer processes.  This allows the software to be run reliably when moved from one computing environment to another.
 
