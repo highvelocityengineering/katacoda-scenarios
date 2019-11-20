@@ -6,7 +6,7 @@ We created a small Python application, packaged it up into a container and ran t
 
 *Going Deeper - Here is a nice overview of what we just discussed in greater depth.   <https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-overview-of-containerization>
 
-As you gain more interest in technology there is a wealth of information sites.
+>As you gain more interest in technology there is a wealth of information sites.
  
 <https://www.google.com> - The best tool to find tools and information.
 
