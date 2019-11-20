@@ -4,7 +4,7 @@ With a container's ability to carry it's dependencies with it and it's small siz
  
 
 
-If you want to learn more about containers and their orchestration here are some sites you can start at:
+>If you want to learn more about containers and their orchestration here are some sites you can start at:
 
 <https://learn.openshift.com/> - A Katacoda site allowing you to explore various aspects of OpenShift.
 
