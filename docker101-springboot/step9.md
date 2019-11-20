@@ -6,10 +6,10 @@ With a container's ability to carry it's dependencies with it and it's small siz
 
 If you want to learn more about containers and their orchestration here are some sites you can start at:
 
-<https://learn.openshift.com/>  A Katacoda site allowing you to explore various aspects of OpenShift.
+<https://learn.openshift.com/> - A Katacoda site allowing you to explore various aspects of OpenShift.
 
-<https://dzone.com/>  A general development site.
+<https://dzone.com/> - A general development site.
 
-<https://blog.openshift.com/>   Blogs written by Red Hat on various subjects pertaining to containers.
+<https://blog.openshift.com/> - Blogs written by Red Hat on various subjects pertaining to containers.
 
-<https://martinfowler.com/articles/microservices.html> Microservice architecture explained.
+<https://martinfowler.com/articles/microservices.html> - Microservice architecture explained.
