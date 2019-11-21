@@ -20,4 +20,4 @@ With the new docker image let's issue the docker run command to get our containe
 Items to note on the docker run command.  We're designating a name on this container so it's easily identifiable.  
 
 
-https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
